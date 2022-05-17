@@ -34,7 +34,7 @@ public class FizzBuzzController {
 
 		// 上記のどれにも当てはまらない場合
 		if (result.length() == 0) {
-			result += "⊂ﾟU┬──────────────┬";
+			result += "イッヌ";
 		}
 
 		// 結果を設定
