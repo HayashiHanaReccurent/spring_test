@@ -39,6 +39,9 @@ public class FizzBuzzController {
 
 		// 結果を設定
 		mv.addObject("result", result);
+		mv.addObject("resulta", result);
+		mv.addObject("resultb", result);
+		mv.addObject("resultc", result);
 		mv.addObject("num", num);
 
 		// 表示するHTMLファイルの設定
